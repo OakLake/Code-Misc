@@ -32,3 +32,6 @@ this simple example demonstrates concurent access to a safe queue as seen by the
 - UDP_Server.py: Simple python UDP server.
 - UDP_Client.py: Simple python UDP client.
 
+- Pi_gpio_interrupt.c: listening to interrupts on GPIO using wiringPi C library.
+- Pi_gpio_interrupt.py: listening to interrupts on GPIO using RPi.GPIO pythob library.
+
