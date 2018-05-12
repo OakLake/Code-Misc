@@ -35,5 +35,5 @@ this simple example demonstrates concurent access to a safe queue as seen by the
 - Pi_gpio_interrupt.c: listening to interrupts on GPIO using wiringPi C library.
 - Pi_gpio_interrupt.py: listening to interrupts on GPIO using RPi.GPIO pythob library.
 
-- picam_stream.cpp: Streaming video using raspberry pi camera in openCV.
+- picam_stream.cpp: Streaming video using raspberry pi camera in openCV using raspicam lib. https://github.com/cedricve/raspicam
 
