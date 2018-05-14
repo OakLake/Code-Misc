@@ -37,3 +37,5 @@ this simple example demonstrates concurent access to a safe queue as seen by the
 
 - picam_stream.cpp: Streaming video using raspberry pi camera in openCV using raspicam lib. https://github.com/cedricve/raspicam
 
+- facedetect.cpp: Face detection using opencv and raspicam libraries on raspberry pi, streaming detection.
+
