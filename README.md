@@ -39,3 +39,6 @@ this simple example demonstrates concurent access to a safe queue as seen by the
 
 - facedetect.cpp: Face detection using opencv and raspicam libraries on raspberry pi, streaming detection.
 
+- wiringPI_SW_PWM.cpp : wiringPi library software serial on RPi 3 B+. 
+http://wiringpi.com/reference/software-pwm-library/
+
