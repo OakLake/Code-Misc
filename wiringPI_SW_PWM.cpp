@@ -1,7 +1,7 @@
 /*
 Raspberry Pi wiringPi SW serial for motor control
 */
-// gcc -o sw_pwm sw_pwm_test.cpp -lwiringPi
+// gcc -o sw_pwm sw_pwm_test.cpp -lwiringPi -lstdc++
 
 #include <wiringPi.h>
 #include <softPwm.h>
